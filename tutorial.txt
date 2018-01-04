@@ -1,0 +1,13 @@
+Repository pada dasarnya merupakan gudang tempat menyimpan semua berkas yang kita miliki.
+
+1. membuat repository baru pada github untuk tempat menyimpan project
+2. lalu membuat clone pada tower dengan cara menyalin url repository yang telah dibuat ke dalam tower, lalu pilih penyimpanan repository pada laptop.
+3. setelah itu mulai membuat project pada folder repository pada laptop
+4. setelah membuat project baru kemudian project tersebut akan tampil pada tab working copy di tower
+5. jika bagian dari project yang telah dibuat sudah selesai maka centang kotak disebelah kanan file, kemudian tulis judul pada commit subject dan beri keterangan, setelah itu pilih commit
+6. kemudian pilih branches, pada folder branches terdapat folder master, didalam folder master terdapat hasil project yang telah dimasukkan dengan logo panah pada sudut file.
+7. untuk memasukkan hasil project ke dalam github klik kanan pada master lalu pilih push
+8. setelah itu cek pada github apakah project tersebut sudah tersimpan pada repository github
+9. jika partner kerja sudah menambahkan bagiannya juga pada repository github maka kita menggunakan fungsi pull untuk mengambil hasil projectnya ke dalam repository yang terdapat pada tower
+10. dan jika terdapat file yang sama maka kita harus menentukan file yang ingin disimpan atau diganti dengan hasil project yang baru
+11. dan jika ada file yang ingin diedit maka setelah diedit akan muncul pemberitahuan pada tab working copy, dan jika ingin menambahkan file yang telah diedit tersebut kedalam repository commit lagi seperti langkah sebelumnya, kemudian push ke dalam repository github 
